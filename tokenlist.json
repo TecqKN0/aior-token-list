@@ -1,0 +1,22 @@
+{
+  "name": "AIORA Token List",
+  "logoURI": "https://tecqkno.github.io/aior-token-list/assets/DzLkpcFWtZnex4WmmwUmHKstu3WQBqmQxu1tcm3YqJ9t/logo.png",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "A utility token for AIORA"
+    }
+  },
+  "timestamp": "2025-06-22T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "DzLkpcFWtZnex4WmmwUmHKstu3WQBqmQxu1tcm3YqJ9t",
+      "symbol": "AIOR",
+      "name": "AIORA",
+      "decimals": 9,
+      "logoURI": "https://tecqkno.github.io/aior-token-list/assets/DzLkpcFWtZnex4WmmwUmHKstu3WQBqmQxu1tcm3YqJ9t/logo.png",
+      "tags": ["utility-token"]
+    }
+  ]
+}
